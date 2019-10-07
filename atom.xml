@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>呆子的博客</title>
+  
+  <subtitle>呆子学习编程的笔记,资料</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-10-07T06:26:11.146Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>呆子</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是我的第一篇博客</title>
+    <link href="http://yoursite.com/2019/10/07/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2019/10/07/这是我的第一篇博客/</id>
+    <published>2019-10-07T06:25:01.000Z</published>
+    <updated>2019-10-07T06:26:11.146Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;##这是我的第一篇博客&lt;br&gt;这是我的第一个博客,会记录一些博客的内容.&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/10/07/hello-world/"/>
+    <id>http://yoursite.com/2019/10/07/hello-world/</id>
+    <published>2019-10-07T06:14:02.883Z</published>
+    <updated>2019-10-07T06:14:02.883Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>

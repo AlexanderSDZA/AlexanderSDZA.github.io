@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>呆子的博客</title>
   
-  <subtitle>呆子学习编程的笔记,资料</subtitle>
+  <subtitle>行云流水长,天高任我翔.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-10-08T03:51:05.170Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://alexandersdza.gethub.io/"/>
+  <updated>2020-03-27T05:32:42.092Z</updated>
+  <id>http://alexandersdza.gethub.io/</id>
   
   <author>
     <name>呆子</name>
@@ -17,58 +17,135 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>这是我的第四篇博客</title>
+    <link href="http://alexandersdza.gethub.io/2020/03/27/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://alexandersdza.gethub.io/2020/03/27/这是我的第四篇博客/</id>
+    <published>2020-03-27T05:27:57.000Z</published>
+    <updated>2020-03-27T05:32:42.092Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第四篇博客<br>这是我的第四个博客,会记录一些博客的内容.</p><blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lacus ut purus iaculis feugiat. Sed nec tempor elit, quis aliquam neque. Curabitur sed diam eget dolor fermentum semper at eu lorem.</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是我的第四篇博客&lt;br&gt;这是我的第四个博客,会记录一些博客的内容.&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque hendrerit lac
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://alexandersdza.gethub.io/categories/Java/"/>
+    
+      <category term="SpringBoot" scheme="http://alexandersdza.gethub.io/categories/Java/SpringBoot/"/>
+    
+    
+      <category term="SpringBoot" scheme="http://alexandersdza.gethub.io/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这是我的第三篇博客</title>
+    <link href="http://alexandersdza.gethub.io/2020/03/27/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://alexandersdza.gethub.io/2020/03/27/这是我的第三篇博客/</id>
+    <published>2020-03-27T04:25:01.000Z</published>
+    <updated>2020-03-27T05:33:46.627Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第三篇博客<br>这是我的第三个博客,会记录一些博客的内容.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是我的第三篇博客&lt;br&gt;这是我的第三个博客,会记录一些博客的内容.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://alexandersdza.gethub.io/categories/Java/"/>
+    
+      <category term="Spring" scheme="http://alexandersdza.gethub.io/categories/Java/Spring/"/>
+    
+    
+      <category term="Spring" scheme="http://alexandersdza.gethub.io/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
     <title>这是我的第二篇博客</title>
-    <link href="http://yoursite.com/2019/10/08/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/10/08/这是我的第二篇博客/</id>
+    <link href="http://alexandersdza.gethub.io/2019/10/08/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://alexandersdza.gethub.io/2019/10/08/这是我的第二篇博客/</id>
     <published>2019-10-08T03:51:05.000Z</published>
-    <updated>2019-10-08T03:51:05.170Z</updated>
+    <updated>2020-03-27T04:00:01.433Z</updated>
     
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>这是我的第一篇博客</title>
-    <link href="http://yoursite.com/2019/10/07/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/10/07/这是我的第一篇博客/</id>
-    <published>2019-10-07T06:25:01.000Z</published>
-    <updated>2019-10-07T06:26:11.146Z</updated>
-    
-    <content type="html"><![CDATA[<p>##这是我的第一篇博客<br>这是我的第一个博客,会记录一些博客的内容.</p>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第三篇博客<br>这是我的第三个博客,会记录一些博客的内容.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;##这是我的第一篇博客&lt;br&gt;这是我的第一个博客,会记录一些博客的内容.&lt;/p&gt;
+        &lt;p&gt;这是我的第三篇博客&lt;br&gt;这是我的第三个博客,会记录一些博客的内容.&lt;/p&gt;
 
       
     
     </summary>
     
     
+      <category term="Java" scheme="http://alexandersdza.gethub.io/categories/Java/"/>
+    
+      <category term="JavaWeb" scheme="http://alexandersdza.gethub.io/categories/Java/JavaWeb/"/>
+    
+    
+      <category term="JavaWeb" scheme="http://alexandersdza.gethub.io/tags/JavaWeb/"/>
     
   </entry>
   
   <entry>
     <title>这是我的第一篇博客</title>
-    <link href="http://yoursite.com/2019/10/07/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/10/07/这是我的第三篇博客/</id>
+    <link href="http://alexandersdza.gethub.io/2019/10/07/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://alexandersdza.gethub.io/2019/10/07/这是我的第一篇博客/</id>
     <published>2019-10-07T06:25:01.000Z</published>
-    <updated>2019-10-07T06:26:11.146Z</updated>
+    <updated>2020-03-27T04:00:36.996Z</updated>
     
-    <content type="html"><![CDATA[<p>##这是我的第一篇博客<br>这是我的第一个博客,会记录一些博客的内容.</p>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第一篇博客<br>这是我的第一个博客,会记录一些博客的内容.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;##这是我的第一篇博客&lt;br&gt;这是我的第一个博客,会记录一些博客的内容.&lt;/p&gt;
+        &lt;p&gt;这是我的第一篇博客&lt;br&gt;这是我的第一个博客,会记录一些博客的内容.&lt;/p&gt;
 
+      
+    
+    </summary>
+    
+    
+      <category term="Java" scheme="http://alexandersdza.gethub.io/categories/Java/"/>
+    
+      <category term="JavaBase" scheme="http://alexandersdza.gethub.io/categories/Java/JavaBase/"/>
+    
+    
+      <category term="JavaBase" scheme="http://alexandersdza.gethub.io/tags/JavaBase/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo搭建博客心得</title>
+    <link href="http://alexandersdza.gethub.io/2019/03/27/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%BF%83%E5%BE%97/"/>
+    <id>http://alexandersdza.gethub.io/2019/03/27/Hexo搭建博客心得/</id>
+    <published>2019-03-27T05:35:56.000Z</published>
+    <updated>2020-03-27T06:29:24.528Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="MarkDown"><a href="#MarkDown" class="headerlink" title="MarkDown :"></a>MarkDown :</h1><h2 id="MarkDown介绍"><a href="#MarkDown介绍" class="headerlink" title="MarkDown介绍"></a>MarkDown介绍</h2><blockquote><p>Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档。</p><p>Markdown 语言在 2004 由约翰·格鲁伯（英语：John Gruber）创建。</p><p>Markdown 编写的文档可以导出 HTML 、Word、图像、PDF、Epub 等多种格式的文档。</p><p>Markdown 编写的文档后缀为 <strong>.md</strong>, <strong>.markdown</strong>。</p><footer><strong>呆子</strong><cite><a href="https://www.runoob.com/markdown/md-tutorial.html" target="_blank" rel="noopener">MarkDown教程|菜鸟教程</a></cite></footer></blockquote><h2 id="MarkDown语法手册"><a href="#MarkDown语法手册" class="headerlink" title="MarkDown语法手册"></a>MarkDown语法手册</h2><blockquote><p>Markdown 是一种轻量级标记语言，能将文本换成有效的XHTML(或者HTML)文档，它的目标是实现易读易写，成为一种适用于网络的书写语言。</p><p>Markdown 语法简洁明了，易于掌握，所以用它来写作是件既效率又舒服的事情。我们所熟知的和一些大型CMS，如Joomla!、Drupal等都能很好的支持Markdown。我是因为写GitHub项目库中的Readme才开始接触Markdown。</p><p>Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法种类很少，只对应 HTML 标记的一小部分。Markdown 的构想不是要使得 HTML 文档更容易书写。在我看来， HTML 已经很容易写了。Markdown 的理念是，能让文档更容易读、写和随意改。HTML 是一种发布的格式，Markdown 是一种书写的格式。就这样，Markdown 的格式语法只涵盖纯文本可以涵盖的范围。</p><footer><strong>蓝色梦想</strong><cite><a href="https://www.bluesdream.com/blog/markdown-cheatsheet-syntax-manual.html" target="_blank" rel="noopener">MarkDown语法手册</a></cite></footer></blockquote><h1 id="Hexo"><a href="#Hexo" class="headerlink" title="Hexo"></a>Hexo</h1><h2 id="Hexo开发常用命令"><a href="#Hexo开发常用命令" class="headerlink" title="Hexo开发常用命令"></a>Hexo开发常用命令</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`$ hexo new [layout] &lt;title&gt;`</span><br></pre></td></tr></table></figure><blockquote><p>示例 : hexo new “hello world(文章名称)”</p><p>生成对应的md文档:</p><p>其中Front-matter是文件最上方的如下部分:</p><p><img src="/images/00000/1585289496761.png" alt></p><p>以下是预先定义的参数，您可在模板中使用这些参数值并加以利用。</p><p><img src="/images/00000/1585289761660.png" alt></p><p>分类和标签:只有文章支持分类和标签，您可以在 Front-matter 中设置。在其他系统中，分类和标签听起来很接近，但是在 Hexo 中两者有着明显的差别：分类具有顺序性和层次性，也就是说 <code>Foo, Bar</code> 不等于 <code>Bar, Foo</code>；而标签没有顺序和层次。</p><p> categories:- Diarytags:- PS3- Games</p><p>注意:</p><p><img src="/images/00000/1585290145157.png" alt></p><p><img src="/images/00000/1585290429395.png" alt></p><footer><strong>呆子</strong><cite><a href="https://hexo.io/zh-cn/docs" target="_blank" rel="noopener">Hexo开发文档</a></cite></footer></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;MarkDown&quot;&gt;&lt;a href=&quot;#MarkDown&quot; class=&quot;headerlink&quot; title=&quot;MarkDown :&quot;&gt;&lt;/a&gt;MarkDown :&lt;/h1&gt;&lt;h2 id=&quot;MarkDown介绍&quot;&gt;&lt;a href=&quot;#MarkDown介绍&quot; cla
       
     
     </summary>

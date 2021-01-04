@@ -5,9 +5,9 @@
   <subtitle>行云流水长,天高任我翔.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://daizibaba.gitee.io/"/>
+  <link href="https://daizibaba.github.io/"/>
   <updated>2020-03-27T05:32:42.092Z</updated>
-  <id>https://daizibaba.gitee.io/</id>
+  <id>https://daizibaba.github.io/</id>
   
   <author>
     <name>呆子</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>这是我的第四篇博客</title>
-    <link href="https://daizibaba.gitee.io/2020/03/27/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://daizibaba.gitee.io/2020/03/27/这是我的第四篇博客/</id>
+    <link href="https://daizibaba.github.io/2020/03/27/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E5%9B%9B%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://daizibaba.github.io/2020/03/27/这是我的第四篇博客/</id>
     <published>2020-03-27T05:27:57.000Z</published>
     <updated>2020-03-27T05:32:42.092Z</updated>
     
@@ -36,19 +36,19 @@
     </summary>
     
     
-      <category term="Java" scheme="https://daizibaba.gitee.io/categories/Java/"/>
+      <category term="Java" scheme="https://daizibaba.github.io/categories/Java/"/>
     
-      <category term="SpringBoot" scheme="https://daizibaba.gitee.io/categories/Java/SpringBoot/"/>
+      <category term="SpringBoot" scheme="https://daizibaba.github.io/categories/Java/SpringBoot/"/>
     
     
-      <category term="SpringBoot" scheme="https://daizibaba.gitee.io/tags/SpringBoot/"/>
+      <category term="SpringBoot" scheme="https://daizibaba.github.io/tags/SpringBoot/"/>
     
   </entry>
   
   <entry>
     <title>这是我的第三篇博客</title>
-    <link href="https://daizibaba.gitee.io/2020/03/27/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://daizibaba.gitee.io/2020/03/27/这是我的第三篇博客/</id>
+    <link href="https://daizibaba.github.io/2020/03/27/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%89%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://daizibaba.github.io/2020/03/27/这是我的第三篇博客/</id>
     <published>2020-03-27T04:25:01.000Z</published>
     <updated>2020-03-27T05:33:46.627Z</updated>
     
@@ -65,19 +65,48 @@
     </summary>
     
     
-      <category term="Java" scheme="https://daizibaba.gitee.io/categories/Java/"/>
+      <category term="Java" scheme="https://daizibaba.github.io/categories/Java/"/>
     
-      <category term="Spring" scheme="https://daizibaba.gitee.io/categories/Java/Spring/"/>
+      <category term="Spring" scheme="https://daizibaba.github.io/categories/Java/Spring/"/>
     
     
-      <category term="Spring" scheme="https://daizibaba.gitee.io/tags/Spring/"/>
+      <category term="Spring" scheme="https://daizibaba.github.io/tags/Spring/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue学习</title>
+    <link href="https://daizibaba.github.io/2020/01/04/Vue001/"/>
+    <id>https://daizibaba.github.io/2020/01/04/Vue001/</id>
+    <published>2020-01-04T05:24:06.000Z</published>
+    <updated>2021-01-04T07:30:09.727Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-简介"><a href="#1-简介" class="headerlink" title="1. 简介"></a>1. 简介</h1><blockquote><p><a href="https://cn.vuejs.org/" title="渐进式JavaScript框架" target="_blank" rel="noopener">Vue</a> (读音 /vjuː/，类似于 view) 是一套用于构建用户界面的渐进式框架。与其它大型框架不同的是，Vue 被设计为可以自底向上逐层应用。Vue 的核心库只关注视图层，不仅易于上手，还便于与第三方库或既有项目整合。</p><p>另一方面，当与现代化的工具链以及各种支持类库结合使用时，Vue 也完全能够为复杂的单页应用提供驱动。如果你想在深入学习 Vue 之前对它有更多了解，我们制作了一个视频，带您了解其核心概念和一个示例工程。</p><p>如果你已经是有经验的前端开发者，想知道 Vue 与其它库/框架有哪些区别，请查看对比其它框架。</p></blockquote><hr># 2. 安装 #<blockquote><p>对于制作原型或学习，你可以这样使用最新版本： </p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdn.jsdelivr.net/npm/vue/dist/vue.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><blockquote><p>对于生产环境，我们推荐链接到一个明确的版本号和构建文件，以避免新版本造成的不可预期的破坏 :</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdn.jsdelivr.net/npm/vue@2.6.12"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><blockquote><p>如果你使用原生 ES Modules，这里也有一个兼容 ES Module 的构建文件：</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">type</span>=<span class="string">"module"</span>&gt;</span></span><br><span class="line">import Vue from 'https://cdn.jsdelivr.net/npm/vue@2.6.12/dist/vue.esm.browser.js'</span><br><span class="line"><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><hr># 3.  起步<blockquote><p>尝试 Vue.js 最简单的方法是使用 <a href="https://codesandbox.io/s/github/vuejs/vuejs.org/tree/master/src/v2/examples/vue-20-hello-world" target="_blank" rel="noopener">Hello World 例子</a>。你可以在浏览器新标签页中打开它，跟着例子学习一些基础用法。或者你也可以<a href="https://github.com/vuejs/vuejs.org/blob/master/src/v2/examples/vue-20-hello-world/index.html" target="_blank" rel="noopener">创建一个 <code>.html</code> 文件</a>，然后通过如下方式引入 Vue：</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 开发环境版本，包含了有帮助的命令行警告 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdn.jsdelivr.net/npm/vue/dist/vue.js"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><blockquote><p>或者：</p></blockquote><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">&lt;!-- 生产环境版本，优化了尺寸和速度 --&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">script</span> <span class="attr">src</span>=<span class="string">"https://cdn.jsdelivr.net/npm/vue"</span>&gt;</span><span class="tag">&lt;/<span class="name">script</span>&gt;</span></span><br></pre></td></tr></table></figure><blockquote><p><a href="https://cn.vuejs.org/guide/installation.html" target="_blank" rel="noopener">安装教程</a>给出了更多安装 Vue 的方式。请注意我们<strong>不推荐</strong>新手直接使用 <code>vue-cli</code>，尤其是在你还不熟悉基于 Node.js 的构建工具时。</p><p>如果你喜欢交互式的东西，你也可以查阅<a href="https://scrimba.com/g/gvuedocs" target="_blank" rel="noopener">这个 Scrimba 上的系列教程</a>，它揉合了录屏和代码试验田，并允许你随时暂停和播放。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;1-简介&quot;&gt;&lt;a href=&quot;#1-简介&quot; class=&quot;headerlink&quot; title=&quot;1. 简介&quot;&gt;&lt;/a&gt;1. 简介&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://cn.vuejs.org/&quot; title=&quot;渐进式JavaS
+      
+    
+    </summary>
+    
+    
+      <category term="Html" scheme="https://daizibaba.github.io/categories/Html/"/>
+    
+      <category term="Vue" scheme="https://daizibaba.github.io/categories/Html/Vue/"/>
+    
+    
+      <category term="Html" scheme="https://daizibaba.github.io/tags/Html/"/>
     
   </entry>
   
   <entry>
     <title>这是我的第二篇博客</title>
-    <link href="https://daizibaba.gitee.io/2019/10/08/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://daizibaba.gitee.io/2019/10/08/这是我的第二篇博客/</id>
+    <link href="https://daizibaba.github.io/2019/10/08/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://daizibaba.github.io/2019/10/08/这是我的第二篇博客/</id>
     <published>2019-10-08T03:51:05.000Z</published>
     <updated>2020-03-27T04:00:01.433Z</updated>
     
@@ -94,19 +123,19 @@
     </summary>
     
     
-      <category term="Java" scheme="https://daizibaba.gitee.io/categories/Java/"/>
+      <category term="Java" scheme="https://daizibaba.github.io/categories/Java/"/>
     
-      <category term="JavaWeb" scheme="https://daizibaba.gitee.io/categories/Java/JavaWeb/"/>
+      <category term="JavaWeb" scheme="https://daizibaba.github.io/categories/Java/JavaWeb/"/>
     
     
-      <category term="JavaWeb" scheme="https://daizibaba.gitee.io/tags/JavaWeb/"/>
+      <category term="JavaWeb" scheme="https://daizibaba.github.io/tags/JavaWeb/"/>
     
   </entry>
   
   <entry>
     <title>这是我的第一篇博客</title>
-    <link href="https://daizibaba.gitee.io/2019/10/07/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>https://daizibaba.gitee.io/2019/10/07/这是我的第一篇博客/</id>
+    <link href="https://daizibaba.github.io/2019/10/07/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://daizibaba.github.io/2019/10/07/这是我的第一篇博客/</id>
     <published>2019-10-07T06:25:01.000Z</published>
     <updated>2020-03-27T04:00:36.996Z</updated>
     
@@ -123,19 +152,19 @@
     </summary>
     
     
-      <category term="Java" scheme="https://daizibaba.gitee.io/categories/Java/"/>
+      <category term="Java" scheme="https://daizibaba.github.io/categories/Java/"/>
     
-      <category term="JavaBase" scheme="https://daizibaba.gitee.io/categories/Java/JavaBase/"/>
+      <category term="JavaBase" scheme="https://daizibaba.github.io/categories/Java/JavaBase/"/>
     
     
-      <category term="JavaBase" scheme="https://daizibaba.gitee.io/tags/JavaBase/"/>
+      <category term="JavaBase" scheme="https://daizibaba.github.io/tags/JavaBase/"/>
     
   </entry>
   
   <entry>
     <title>Hexo搭建博客心得</title>
-    <link href="https://daizibaba.gitee.io/2019/03/27/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%BF%83%E5%BE%97/"/>
-    <id>https://daizibaba.gitee.io/2019/03/27/Hexo搭建博客心得/</id>
+    <link href="https://daizibaba.github.io/2019/03/27/Hexo%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E5%BF%83%E5%BE%97/"/>
+    <id>https://daizibaba.github.io/2019/03/27/Hexo搭建博客心得/</id>
     <published>2019-03-27T05:35:56.000Z</published>
     <updated>2020-03-27T06:29:24.528Z</updated>
     
